@@ -4,7 +4,7 @@ My love for the digital and audiovisual world deepened in my professional traini
 
 Skills:  JavaScript / HTML / CSS / React JS / Figma  
 
-- 🔭 I’m currently working on:[Cinéfilos Challenge](https://github.com/Camilaf19/BOG005-movie-challenge) 
+- 🔭 I’m currently working on: [Cinéfilos Challenge](https://github.com/Camilaf19/BOG005-movie-challenge) 
 - 🌱 I’m currently learning REACT JS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/camila-fonseca22/) 
 
