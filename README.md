@@ -6,7 +6,7 @@ I love how each project becomes a challenge, a mistake becomes an opportunity to
 
 Skills:  JavaScript / HTML / CSS / React JS / Figma / Tailwind
 
-- 🔭 I’m currently working on: [Cinemaniáticos Challenge](https://github.com/Camilaf19/BOG005-movie-challenge) 
+- 🔭 I’m currently working on: [Cinemaniáticos Challenge](https://github.com/Camilaf19/othello-game) 
 - 🌱 I’m currently learning more about REACT JS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/camila-fonseca22/) 
 
