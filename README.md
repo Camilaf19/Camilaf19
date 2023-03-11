@@ -1,4 +1,4 @@
-### Hi, I am Camila Fonseca
+### Hi, I am Camila Fonseca 😊
 #### Front-end Developer
 My love for the digital and audiovisual world deepened in my professional training as a social communicator, which has led me to find the curiosity and desire to impact the construction of web applications as a Front end developer. 
 
